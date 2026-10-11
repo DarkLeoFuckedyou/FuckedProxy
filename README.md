@@ -77,6 +77,11 @@ python Fuckedman.py
 
 Run the command using the actual Python filename in your proxy checker project.
 
+## ◈ RESULT PREVIEW
+<div align="center">
+  <img src="orca-image-1048296140.jpeg.jpeg" width="100%" alt="DARK LEO Proxy Tester">
+</div>
+
 ## ◈ USAGE
 
 1. Launch the Python script.

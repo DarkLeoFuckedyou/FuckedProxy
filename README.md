@@ -24,6 +24,11 @@
 ---
 
 ## ◈ OVERVIEW
+<div align="center">
+  <img src="file_0000000015e4821089de156f7f25619f.png"
+       width="300"
+       alt="DARK LEO Proxy Tester">
+</div>
 
 **TOOLS PROXY CHECKER** is a Python terminal utility for checking proxy connectivity and reviewing test results through a clean, command-line interface.
 Designed for users who want a straightforward workflow for proxy testing on Python-compatible systems, including Termux.
@@ -79,7 +84,9 @@ Run the command using the actual Python filename in your proxy checker project.
 
 ## ◈ RESULT PREVIEW
 <div align="center">
-  <img src="orca-image-1048296140.jpeg.jpeg" width="100%" alt="DARK LEO Proxy Tester">
+  <img src="orca-image-1048296140.jpeg.jpeg"
+       width="250"
+       alt="DARK LEO Proxy Tester">
 </div>
 
 ## ◈ USAGE

@@ -54,13 +54,13 @@ Designed for users who want a straightforward workflow for proxy testing on Pyth
 ### 01 — Clone the repository
 
 ```bash
-git clone https://github.com/alexhuntercctteam/FileSecurity.git
+git clone https://github.com/DarkLeoFuckedyou/FuckedProxy.git
 ```
 
 ### 02 — Enter the project directory
 
 ```bash
-cd FileSecurity
+cd FuckedProxy
 ```
 
 ### 03 — Install dependencies
@@ -72,7 +72,7 @@ python -m pip install requests termcolor cfonts PySocks
 ### 04 — Run the proxy checker
 
 ```bash
-python proxy_checker.py
+python Fuckedman.py
 ```
 
 Run the command using the actual Python filename in your proxy checker project.

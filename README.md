@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00C8FF" width="100%"/>
 
 # ⚡ TOOLS PROXY CHECKER
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=500&lines=TOOLS+PROXY+CHECKER;INITIALIZING..." alt="TOOLS PROXY CHECKER" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=750&lines=PROXY+CHECKER;CONNECTION+ANALYSIS;DARK+LEO+@BangIadeshi" alt="Animated title"/>
 
